@@ -1,0 +1,19 @@
+/* .card:hover {
+    box-shadow: 0 8px 12px 0 rgba(249, 9, 9, 0.2);
+} */
+
+a.navbar-brand.text-light {
+    font-size: 25px;
+    font-family: fantasy;
+    padding: 25px;
+    margin: 0;
+    background-color: #24292F;
+}
+
+a{
+    border: 0px;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #363636;
+} 
